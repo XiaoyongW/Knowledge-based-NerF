@@ -18,6 +18,17 @@
     text-align: center;
 }
 
+.title {
+    margin-top: 0px;
+    margin-bottom: 0px;
+    font-family: 'Times New Roman',sans-serif;
+    color: #4d4d4d;
+    font-size: 50px;
+    line-height: 65px;
+    font-weight: 700;
+    letter-spacing: 4;
+}
+
 /* 定义内容样式 */
 .content {
     display: flex;
