@@ -1,0 +1,57 @@
+/* 定义全局样式 */
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+/* 定义容器样式 */
+.container {
+    width: 80%;
+    margin: 0 auto;
+}
+
+/* 定义头部样式 */
+.header {
+    background-color: #f0f0f0;
+    padding: 20px;
+    text-align: center;
+}
+
+/* 定义内容样式 */
+.content {
+    display: flex;
+    justify-content: space-between;
+    margin: 20px 0;
+}
+
+/* 定义左侧内容样式 */
+.left {
+    width: 60%;
+    padding: 10px;
+}
+
+/* 定义右侧内容样式 */
+.right {
+    width: 30%;
+    padding: 10px;
+}
+
+/* 定义图片样式 */
+img {
+    width: 100%;
+    height: auto;
+}
+
+/* 定义链接样式 */
+a {
+    color: blue;
+    text-decoration: none;
+}
+
+/* 定义底部样式 */
+.footer {
+    background-color: #f0f0f0;
+    padding: 10px;
+    text-align: center;
+}
